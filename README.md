@@ -36,7 +36,7 @@ The app allows users to upload a CSV file containing their dataset, perform expl
 
 ## Try This App
 
-[Click here to try the app]([http://your-app-url](https://build-your-own-pycaret-7vm3kjfnvzbsfjwrsbq8ur.streamlit.app/))
+[Click here to try the app](https://build-your-own-pycaret-7vm3kjfnvzbsfjwrsbq8ur.streamlit.app/)
 
 ## Contributing
 
